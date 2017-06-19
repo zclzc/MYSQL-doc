@@ -1,7 +1,7 @@
 ## 学生管理信息系统
 
-1. [数据库安装](数据库的安装.md)
+1. [数据库安装](install about databases.md)
 
-2. [数据库设计](数据库设计.md)
+2. [数据库设计](design of databases.md)
 
-3. [数据库命令](数据库命令.md)
+3. [数据库命令](command of databases.md)
