@@ -1,3 +1,13 @@
+## Linux
+
+[linux](Linux.md)
+
+## GitHub
+
+[giuthub](GitHub.md)
+
+
+
 ## 学生管理信息系统
 
 1. [数据库安装](install-about-databases.md)
