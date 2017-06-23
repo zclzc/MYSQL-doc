@@ -4,4 +4,4 @@
 
 2. [数据库设计](design of databases .md)
 
-3. [数据库命令](command of databases.md)
+3. [数据库命令](command-of-databases.md)
